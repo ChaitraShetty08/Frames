@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53" started-at="2021-08-08T21:19:12Z" finished-at="2021-08-08T21:19:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53" started-at="2021-08-08T21:19:12Z" finished-at="2021-08-08T21:19:12Z">
+      <class name="reporting_tool.Demo2">
+        <test-method status="PASS" signature="console()[pri:0, instance:reporting_tool.Demo2@6093dd95]" name="console" duration-ms="36" started-at="2021-08-09T02:49:12Z" finished-at="2021-08-09T02:49:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- console -->
+      </class> <!-- reporting_tool.Demo2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
